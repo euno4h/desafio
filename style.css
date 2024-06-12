@@ -50,6 +50,7 @@ a:hover{
     text-align: center;
 }
 
-.image{width: 100%;
+.image{
+    width: 100%;
     height: auto;
 }
